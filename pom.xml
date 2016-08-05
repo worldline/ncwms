@@ -360,8 +360,8 @@
         <developerConnection>scm:git:ssh://github.com/Reading-eScience-Centre/ncwms</developerConnection>
         <url>https://github.com/Reading-eScience-Centre/ncwms</url>
     </scm>
-    <distributionManagement>
-        <!-- use the following if you're not using a snapshot version. -->
+<!--    <distributionManagement>
+        &lt;!&ndash; use the following if you're not using a snapshot version. &ndash;&gt;
         <repository>
             <id>ncwms-release</id>
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
@@ -370,5 +370,5 @@
             <id>ncwms-snapshots</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement>-->
 </project>
